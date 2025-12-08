@@ -30,4 +30,8 @@ Proje Amacı
 
 -Gerçek zamanlı iletişim ve eşleştirme altyapısı 
 
+## 👥 Development Team
+- İbrahim Alperen KESKİN
+- Mustafa Küçükvızıltı
+
 
