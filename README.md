@@ -32,6 +32,6 @@ Proje Amacı
 
 ## 👥 Development Team
 - İbrahim Alperen KESKİN
-- Mustafa Küçükvızıltı
+- Mustafa KÜÇÜKVIZILTI
 
 
