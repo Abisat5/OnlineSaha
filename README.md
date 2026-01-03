@@ -30,6 +30,14 @@ Proje Amacı
 
 -Gerçek zamanlı iletişim ve eşleştirme altyapısı 
 
+
+En Son Yapılan İşlemler
+- Hakkında sayfası eklendi (misyon, vizyon, özellikler)
+- Turnuvalar sayfasına navbar eklendi
+- Ana sayfaya istatistikler, yorumlar, CTA bölümleri eklendi
+- Navigasyon ve routing iyileştirildi
+- Animasyonlar ve modern UI iyileştirmeleri eklendi
+
 ## 👥 Development Team
 - İbrahim Alperen KESKİN
 - Mustafa KÜÇÜKVIZILTI
