@@ -38,6 +38,15 @@ En Son Yapılan İşlemler
 - Navigasyon ve routing iyileştirildi
 - Animasyonlar ve modern UI iyileştirmeleri eklendi
 
+  04.01.2026
+  Maç Bul ve Takım Kur sayfaları eklendi
+  - Maç Bul sayfası filtreler ve maç kartları ile eklendi
+  - Takım Kur sayfası form ve oyuncu davet sistemi ile eklendi
+  - Routing ve navigasyon linkleri güncellendi
+  - Ana sayfa hero butonları yeni sayfalara bağlandı
+  - !Şu anlık sadece Front-end'de işlemler yapılmaktadır
+  
+
 ## 👥 Development Team
 - İbrahim Alperen KESKİN
 - Mustafa KÜÇÜKVIZILTI
